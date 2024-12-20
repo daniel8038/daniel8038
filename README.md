@@ -15,6 +15,7 @@
 **CrazyMeme**
 * **Frontend Development Engineer**
 **Project Link:** https://creazymeme.vercel.app/meme/2BNE6iPfFDi4P3p2jFWJbuXrLUaT3GF9wkreppzvcHqd
+  
 **Project Description:**
     - Multi-chain decentralized exchange based on Solana and EVM, integrating Dutch auction and Token Swap functionality
     - Supports multi-chain asset trading, liquidity management, and real-time market data analysis
